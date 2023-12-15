@@ -1,1 +1,1 @@
-# Weather-App
+# Weather-App Welcome to ClimateNow, your personal weather assistant! ClimateNow is an intuitive application designed to provide you with accurate and up-to-date weather information for any location around the globe. With an easy-to-use interface and comprehensive features, staying informed about the weather has never been more convenient.
